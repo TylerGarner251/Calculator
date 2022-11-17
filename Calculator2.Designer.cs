@@ -71,7 +71,7 @@
             this.oneButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.oneButton.Size = new System.Drawing.Size(70, 70);
             this.oneButton.TabIndex = 0;
-            this.oneButton.Text = "1";
+            this.oneButton.Text = "&1";
             this.oneButton.Click += new System.EventHandler(this.oneButton_Click);
             // 
             // twoButton
@@ -90,7 +90,7 @@
             this.twoButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.twoButton.Size = new System.Drawing.Size(70, 70);
             this.twoButton.TabIndex = 1;
-            this.twoButton.Text = "2";
+            this.twoButton.Text = "&2";
             this.twoButton.Click += new System.EventHandler(this.twoButton_Click);
             // 
             // threeButton
@@ -109,7 +109,7 @@
             this.threeButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.threeButton.Size = new System.Drawing.Size(70, 70);
             this.threeButton.TabIndex = 2;
-            this.threeButton.Text = "3";
+            this.threeButton.Text = "&3";
             this.threeButton.Click += new System.EventHandler(this.threeButton_Click);
             // 
             // fourButton
@@ -128,7 +128,7 @@
             this.fourButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.fourButton.Size = new System.Drawing.Size(70, 70);
             this.fourButton.TabIndex = 3;
-            this.fourButton.Text = "4";
+            this.fourButton.Text = "&4";
             this.fourButton.Click += new System.EventHandler(this.fourButton_Click);
             // 
             // fiveButton
@@ -147,7 +147,7 @@
             this.fiveButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.fiveButton.Size = new System.Drawing.Size(70, 70);
             this.fiveButton.TabIndex = 4;
-            this.fiveButton.Text = "5";
+            this.fiveButton.Text = "&5";
             this.fiveButton.Click += new System.EventHandler(this.fiveButton_Click);
             // 
             // sixButton
@@ -166,7 +166,7 @@
             this.sixButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.sixButton.Size = new System.Drawing.Size(70, 70);
             this.sixButton.TabIndex = 5;
-            this.sixButton.Text = "6";
+            this.sixButton.Text = "&6";
             this.sixButton.Click += new System.EventHandler(this.sixButton_Click);
             // 
             // sevenButton
@@ -185,7 +185,7 @@
             this.sevenButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.sevenButton.Size = new System.Drawing.Size(70, 70);
             this.sevenButton.TabIndex = 6;
-            this.sevenButton.Text = "7";
+            this.sevenButton.Text = "&7";
             this.sevenButton.Click += new System.EventHandler(this.sevenButton_Click);
             // 
             // eightButton
@@ -204,7 +204,7 @@
             this.eightButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.eightButton.Size = new System.Drawing.Size(70, 70);
             this.eightButton.TabIndex = 7;
-            this.eightButton.Text = "8";
+            this.eightButton.Text = "&8";
             this.eightButton.Click += new System.EventHandler(this.eightButton_Click);
             // 
             // nineButton
@@ -223,7 +223,7 @@
             this.nineButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.nineButton.Size = new System.Drawing.Size(70, 70);
             this.nineButton.TabIndex = 8;
-            this.nineButton.Text = "9";
+            this.nineButton.Text = "&9";
             this.nineButton.Click += new System.EventHandler(this.nineButton_Click);
             // 
             // zeroButton
@@ -242,7 +242,7 @@
             this.zeroButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.zeroButton.Size = new System.Drawing.Size(70, 70);
             this.zeroButton.TabIndex = 9;
-            this.zeroButton.Text = "0";
+            this.zeroButton.Text = "&0";
             this.zeroButton.Click += new System.EventHandler(this.zeroButton_Click);
             // 
             // SecondDisplay
@@ -343,7 +343,7 @@
             this.EqualButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.EqualButton.Size = new System.Drawing.Size(70, 70);
             this.EqualButton.TabIndex = 22;
-            this.EqualButton.Text = "=";
+            this.EqualButton.Text = "&=";
             this.EqualButton.Click += new System.EventHandler(this.EqualButton_Click_1);
             // 
             // decimalbutton
@@ -362,7 +362,7 @@
             this.decimalbutton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.decimalbutton.Size = new System.Drawing.Size(70, 70);
             this.decimalbutton.TabIndex = 23;
-            this.decimalbutton.Text = ".";
+            this.decimalbutton.Text = "&.";
             this.decimalbutton.Click += new System.EventHandler(this.decimalbutton_Click_1);
             // 
             // MultiplyButton
