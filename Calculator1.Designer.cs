@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.oneButton = new System.Windows.Forms.Button();
             this.twoButton = new System.Windows.Forms.Button();
             this.threeButton = new System.Windows.Forms.Button();
             this.fourButton = new System.Windows.Forms.Button();
@@ -51,21 +50,9 @@
             this.MemoryButton = new System.Windows.Forms.Button();
             this.GetMemoryButton = new System.Windows.Forms.Button();
             this.pibutton = new System.Windows.Forms.Button();
+            this.oneButton = new System.Windows.Forms.Button();
+            this.VisualButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // oneButton
-            // 
-            this.oneButton.BackColor = System.Drawing.Color.Navy;
-            this.oneButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.oneButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.oneButton.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.oneButton.Location = new System.Drawing.Point(11, 335);
-            this.oneButton.Name = "oneButton";
-            this.oneButton.Size = new System.Drawing.Size(70, 70);
-            this.oneButton.TabIndex = 0;
-            this.oneButton.Text = "1";
-            this.oneButton.UseVisualStyleBackColor = false;
-            this.oneButton.Click += new System.EventHandler(this.oneButton_Click);
             // 
             // twoButton
             // 
@@ -195,7 +182,7 @@
             // 
             // EqualButton
             // 
-            this.EqualButton.BackColor = System.Drawing.Color.Navy;
+            this.EqualButton.BackColor = System.Drawing.Color.Indigo;
             this.EqualButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.EqualButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.EqualButton.ForeColor = System.Drawing.Color.White;
@@ -209,7 +196,7 @@
             // 
             // MultiplyButton
             // 
-            this.MultiplyButton.BackColor = System.Drawing.Color.Navy;
+            this.MultiplyButton.BackColor = System.Drawing.Color.Indigo;
             this.MultiplyButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.MultiplyButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.MultiplyButton.ForeColor = System.Drawing.Color.White;
@@ -223,7 +210,7 @@
             // 
             // PlusButton
             // 
-            this.PlusButton.BackColor = System.Drawing.Color.Navy;
+            this.PlusButton.BackColor = System.Drawing.Color.Indigo;
             this.PlusButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.PlusButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.PlusButton.ForeColor = System.Drawing.Color.White;
@@ -237,7 +224,7 @@
             // 
             // MinusButton
             // 
-            this.MinusButton.BackColor = System.Drawing.Color.Navy;
+            this.MinusButton.BackColor = System.Drawing.Color.Indigo;
             this.MinusButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.MinusButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.MinusButton.ForeColor = System.Drawing.Color.White;
@@ -251,7 +238,7 @@
             // 
             // DivideButton
             // 
-            this.DivideButton.BackColor = System.Drawing.Color.Navy;
+            this.DivideButton.BackColor = System.Drawing.Color.Indigo;
             this.DivideButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.DivideButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.DivideButton.ForeColor = System.Drawing.Color.White;
@@ -290,7 +277,7 @@
             // 
             // AllClear
             // 
-            this.AllClear.BackColor = System.Drawing.Color.Navy;
+            this.AllClear.BackColor = System.Drawing.Color.Indigo;
             this.AllClear.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.AllClear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.AllClear.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -305,7 +292,7 @@
             // 
             // percentageButton
             // 
-            this.percentageButton.BackColor = System.Drawing.Color.Navy;
+            this.percentageButton.BackColor = System.Drawing.Color.Indigo;
             this.percentageButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.percentageButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.percentageButton.ForeColor = System.Drawing.Color.White;
@@ -333,7 +320,7 @@
             // 
             // MemoryButton
             // 
-            this.MemoryButton.BackColor = System.Drawing.Color.Navy;
+            this.MemoryButton.BackColor = System.Drawing.Color.Indigo;
             this.MemoryButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.MemoryButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.MemoryButton.ForeColor = System.Drawing.Color.White;
@@ -347,7 +334,7 @@
             // 
             // GetMemoryButton
             // 
-            this.GetMemoryButton.BackColor = System.Drawing.Color.Navy;
+            this.GetMemoryButton.BackColor = System.Drawing.Color.Indigo;
             this.GetMemoryButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.GetMemoryButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.GetMemoryButton.ForeColor = System.Drawing.Color.White;
@@ -361,7 +348,7 @@
             // 
             // pibutton
             // 
-            this.pibutton.BackColor = System.Drawing.Color.Navy;
+            this.pibutton.BackColor = System.Drawing.Color.Indigo;
             this.pibutton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.pibutton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.pibutton.ForeColor = System.Drawing.Color.White;
@@ -373,12 +360,43 @@
             this.pibutton.UseVisualStyleBackColor = false;
             this.pibutton.Click += new System.EventHandler(this.pibutton_Click);
             // 
+            // oneButton
+            // 
+            this.oneButton.BackColor = System.Drawing.Color.Navy;
+            this.oneButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.oneButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.oneButton.ForeColor = System.Drawing.Color.White;
+            this.oneButton.Location = new System.Drawing.Point(12, 335);
+            this.oneButton.Name = "oneButton";
+            this.oneButton.Size = new System.Drawing.Size(70, 70);
+            this.oneButton.TabIndex = 24;
+            this.oneButton.Text = "1";
+            this.oneButton.UseVisualStyleBackColor = false;
+            this.oneButton.Click += new System.EventHandler(this.oneButton_Click_1);
+            // 
+            // VisualButton
+            // 
+            this.VisualButton.BackColor = System.Drawing.Color.Indigo;
+            this.VisualButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.VisualButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.VisualButton.ForeColor = System.Drawing.Color.White;
+            this.VisualButton.Location = new System.Drawing.Point(314, 107);
+            this.VisualButton.Name = "VisualButton";
+            this.VisualButton.Size = new System.Drawing.Size(70, 70);
+            this.VisualButton.TabIndex = 25;
+            this.VisualButton.Text = "VIS";
+            this.VisualButton.UseVisualStyleBackColor = false;
+            this.VisualButton.Click += new System.EventHandler(this.VisualButton_Click);
+            // 
             // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(397, 493);
+            this.Controls.Add(this.MainDisplay);
+            this.Controls.Add(this.VisualButton);
+            this.Controls.Add(this.oneButton);
             this.Controls.Add(this.pibutton);
             this.Controls.Add(this.GetMemoryButton);
             this.Controls.Add(this.MemoryButton);
@@ -386,7 +404,6 @@
             this.Controls.Add(this.percentageButton);
             this.Controls.Add(this.AllClear);
             this.Controls.Add(this.SecondDisplay);
-            this.Controls.Add(this.MainDisplay);
             this.Controls.Add(this.DivideButton);
             this.Controls.Add(this.MinusButton);
             this.Controls.Add(this.PlusButton);
@@ -401,7 +418,6 @@
             this.Controls.Add(this.fourButton);
             this.Controls.Add(this.threeButton);
             this.Controls.Add(this.twoButton);
-            this.Controls.Add(this.oneButton);
             this.MaximumSize = new System.Drawing.Size(419, 549);
             this.MinimumSize = new System.Drawing.Size(419, 549);
             this.Name = "Calculator";
@@ -413,8 +429,6 @@
         }
 
         #endregion
-
-        private Button oneButton;
         private Button twoButton;
         private Button threeButton;
         private Button fourButton;
@@ -437,5 +451,7 @@
         private Button MemoryButton;
         private Button GetMemoryButton;
         private Button pibutton;
+        private Button oneButton;
+        private Button VisualButton;
     }
 }
