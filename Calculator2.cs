@@ -359,5 +359,19 @@ namespace Calculator
             Calculator f2 = new Calculator();
             f2.ShowDialog(); // or form.ShowDialog(this);
         }
+
+        private void BackspaceButton_Click(object sender, EventArgs e)
+        {
+            int numberLength = MainDisplay.Text.Length;
+            if (numberLength > 1)
+            {
+                MainDisplay.Text = MainDisplay.Text.Substring(0, numberLength - 1);
+            }
+            else
+            {
+                MainDisplay.Text = "";
+
+            }
+        }
     }
 }

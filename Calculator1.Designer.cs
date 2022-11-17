@@ -52,6 +52,7 @@
             this.pibutton = new System.Windows.Forms.Button();
             this.oneButton = new System.Windows.Forms.Button();
             this.VisualButton = new System.Windows.Forms.Button();
+            this.BackspaceButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // twoButton
@@ -118,7 +119,7 @@
             this.zeroButton.ForeColor = System.Drawing.Color.White;
             this.zeroButton.Location = new System.Drawing.Point(11, 411);
             this.zeroButton.Name = "zeroButton";
-            this.zeroButton.Size = new System.Drawing.Size(222, 70);
+            this.zeroButton.Size = new System.Drawing.Size(146, 70);
             this.zeroButton.TabIndex = 5;
             this.zeroButton.Text = "0";
             this.zeroButton.UseVisualStyleBackColor = false;
@@ -296,7 +297,7 @@
             this.percentageButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.percentageButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.percentageButton.ForeColor = System.Drawing.Color.White;
-            this.percentageButton.Location = new System.Drawing.Point(238, 183);
+            this.percentageButton.Location = new System.Drawing.Point(314, 182);
             this.percentageButton.Name = "percentageButton";
             this.percentageButton.Size = new System.Drawing.Size(70, 70);
             this.percentageButton.TabIndex = 18;
@@ -310,7 +311,7 @@
             this.decimalbutton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.decimalbutton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.decimalbutton.ForeColor = System.Drawing.Color.White;
-            this.decimalbutton.Location = new System.Drawing.Point(239, 411);
+            this.decimalbutton.Location = new System.Drawing.Point(163, 411);
             this.decimalbutton.Name = "decimalbutton";
             this.decimalbutton.Size = new System.Drawing.Size(70, 70);
             this.decimalbutton.TabIndex = 19;
@@ -338,7 +339,7 @@
             this.GetMemoryButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.GetMemoryButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.GetMemoryButton.ForeColor = System.Drawing.Color.White;
-            this.GetMemoryButton.Location = new System.Drawing.Point(239, 106);
+            this.GetMemoryButton.Location = new System.Drawing.Point(239, 182);
             this.GetMemoryButton.Name = "GetMemoryButton";
             this.GetMemoryButton.Size = new System.Drawing.Size(70, 70);
             this.GetMemoryButton.TabIndex = 21;
@@ -352,7 +353,7 @@
             this.pibutton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.pibutton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.pibutton.ForeColor = System.Drawing.Color.White;
-            this.pibutton.Location = new System.Drawing.Point(314, 183);
+            this.pibutton.Location = new System.Drawing.Point(239, 411);
             this.pibutton.Name = "pibutton";
             this.pibutton.Size = new System.Drawing.Size(70, 70);
             this.pibutton.TabIndex = 22;
@@ -380,7 +381,7 @@
             this.VisualButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.VisualButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.VisualButton.ForeColor = System.Drawing.Color.White;
-            this.VisualButton.Location = new System.Drawing.Point(314, 107);
+            this.VisualButton.Location = new System.Drawing.Point(314, 106);
             this.VisualButton.Name = "VisualButton";
             this.VisualButton.Size = new System.Drawing.Size(70, 70);
             this.VisualButton.TabIndex = 25;
@@ -388,12 +389,27 @@
             this.VisualButton.UseVisualStyleBackColor = false;
             this.VisualButton.Click += new System.EventHandler(this.VisualButton_Click);
             // 
+            // BackspaceButton
+            // 
+            this.BackspaceButton.BackColor = System.Drawing.Color.Indigo;
+            this.BackspaceButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.BackspaceButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.BackspaceButton.ForeColor = System.Drawing.Color.White;
+            this.BackspaceButton.Location = new System.Drawing.Point(238, 106);
+            this.BackspaceButton.Name = "BackspaceButton";
+            this.BackspaceButton.Size = new System.Drawing.Size(70, 70);
+            this.BackspaceButton.TabIndex = 26;
+            this.BackspaceButton.Text = "⌫";
+            this.BackspaceButton.UseVisualStyleBackColor = false;
+            this.BackspaceButton.Click += new System.EventHandler(this.BackspaceButton_Click);
+            // 
             // Calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(397, 493);
+            this.Controls.Add(this.BackspaceButton);
             this.Controls.Add(this.MainDisplay);
             this.Controls.Add(this.VisualButton);
             this.Controls.Add(this.oneButton);
@@ -453,5 +469,6 @@
         private Button pibutton;
         private Button oneButton;
         private Button VisualButton;
+        private Button BackspaceButton;
     }
 }

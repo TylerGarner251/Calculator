@@ -52,6 +52,7 @@
             this.percentageButton = new Guna.UI2.WinForms.Guna2CircleButton();
             this.pibutton = new Guna.UI2.WinForms.Guna2CircleButton();
             this.VisualButton = new Guna.UI2.WinForms.Guna2CircleButton();
+            this.BackspaceButton = new Guna.UI2.WinForms.Guna2CircleButton();
             this.SuspendLayout();
             // 
             // oneButton
@@ -497,12 +498,32 @@
             this.VisualButton.Text = "VIS";
             this.VisualButton.Click += new System.EventHandler(this.VisualButton_Click_1);
             // 
+            // BackspaceButton
+            // 
+            this.BackspaceButton.Animated = true;
+            this.BackspaceButton.BorderColor = System.Drawing.Color.White;
+            this.BackspaceButton.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.BackspaceButton.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.BackspaceButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.BackspaceButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.BackspaceButton.FillColor = System.Drawing.Color.Indigo;
+            this.BackspaceButton.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.BackspaceButton.ForeColor = System.Drawing.Color.White;
+            this.BackspaceButton.Location = new System.Drawing.Point(239, 109);
+            this.BackspaceButton.Name = "BackspaceButton";
+            this.BackspaceButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.BackspaceButton.Size = new System.Drawing.Size(70, 70);
+            this.BackspaceButton.TabIndex = 31;
+            this.BackspaceButton.Text = "⌫";
+            this.BackspaceButton.Click += new System.EventHandler(this.BackspaceButton_Click);
+            // 
             // Calculator2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(397, 493);
+            this.Controls.Add(this.BackspaceButton);
             this.Controls.Add(this.VisualButton);
             this.Controls.Add(this.pibutton);
             this.Controls.Add(this.percentageButton);
@@ -562,5 +583,6 @@
         private Guna.UI2.WinForms.Guna2CircleButton percentageButton;
         private Guna.UI2.WinForms.Guna2CircleButton pibutton;
         private Guna.UI2.WinForms.Guna2CircleButton VisualButton;
+        private Guna.UI2.WinForms.Guna2CircleButton BackspaceButton;
     }
 }
