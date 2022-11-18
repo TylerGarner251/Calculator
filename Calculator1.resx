@@ -57,4 +57,1142 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="twoButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="twoButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="twoButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="twoButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 191</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="twoButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="twoButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="twoButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="twoButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="twoButton.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="twoButton.Text" xml:space="preserve">
+    <value>&amp;2</value>
+  </data>
+  <data name="&gt;&gt;twoButton.Name" xml:space="preserve">
+    <value>twoButton</value>
+  </data>
+  <data name="&gt;&gt;twoButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;twoButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;twoButton.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <metadata name="threeButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="threeButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="threeButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="threeButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 191</value>
+  </data>
+  <data name="threeButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="threeButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="threeButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="threeButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="threeButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="threeButton.Text" xml:space="preserve">
+    <value>&amp;3</value>
+  </data>
+  <data name="&gt;&gt;threeButton.Name" xml:space="preserve">
+    <value>threeButton</value>
+  </data>
+  <data name="&gt;&gt;threeButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;threeButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;threeButton.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <metadata name="fourButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="fourButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="fourButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="fourButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 145</value>
+  </data>
+  <data name="fourButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="fourButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="fourButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="fourButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="fourButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="fourButton.Text" xml:space="preserve">
+    <value>&amp;4</value>
+  </data>
+  <data name="&gt;&gt;fourButton.Name" xml:space="preserve">
+    <value>fourButton</value>
+  </data>
+  <data name="&gt;&gt;fourButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fourButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;fourButton.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <metadata name="fiveButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="fiveButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="fiveButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="fiveButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 145</value>
+  </data>
+  <data name="fiveButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="fiveButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="fiveButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="fiveButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="fiveButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="fiveButton.Text" xml:space="preserve">
+    <value>&amp;5</value>
+  </data>
+  <data name="&gt;&gt;fiveButton.Name" xml:space="preserve">
+    <value>fiveButton</value>
+  </data>
+  <data name="&gt;&gt;fiveButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fiveButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;fiveButton.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <metadata name="zeroButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="zeroButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="zeroButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="zeroButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 237</value>
+  </data>
+  <data name="zeroButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="zeroButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>102, 42</value>
+  </data>
+  <data name="zeroButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>102, 42</value>
+  </data>
+  <data name="zeroButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 42</value>
+  </data>
+  <data name="zeroButton.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="zeroButton.Text" xml:space="preserve">
+    <value>&amp;0</value>
+  </data>
+  <data name="&gt;&gt;zeroButton.Name" xml:space="preserve">
+    <value>zeroButton</value>
+  </data>
+  <data name="&gt;&gt;zeroButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;zeroButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;zeroButton.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <metadata name="sixButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="sixButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="sixButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="sixButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 145</value>
+  </data>
+  <data name="sixButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="sixButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="sixButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="sixButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="sixButton.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="sixButton.Text" xml:space="preserve">
+    <value>&amp;6</value>
+  </data>
+  <data name="&gt;&gt;sixButton.Name" xml:space="preserve">
+    <value>sixButton</value>
+  </data>
+  <data name="&gt;&gt;sixButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sixButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;sixButton.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <metadata name="sevenButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="sevenButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="sevenButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="sevenButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 100</value>
+  </data>
+  <data name="sevenButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="sevenButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="sevenButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="sevenButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="sevenButton.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="sevenButton.Text" xml:space="preserve">
+    <value>&amp;7</value>
+  </data>
+  <data name="&gt;&gt;sevenButton.Name" xml:space="preserve">
+    <value>sevenButton</value>
+  </data>
+  <data name="&gt;&gt;sevenButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sevenButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;sevenButton.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <metadata name="eightButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="eightButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="eightButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="eightButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>72, 100</value>
+  </data>
+  <data name="eightButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="eightButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="eightButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="eightButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="eightButton.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="eightButton.Text" xml:space="preserve">
+    <value>&amp;8</value>
+  </data>
+  <data name="&gt;&gt;eightButton.Name" xml:space="preserve">
+    <value>eightButton</value>
+  </data>
+  <data name="&gt;&gt;eightButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;eightButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;eightButton.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <metadata name="nineButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="nineButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="nineButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="nineButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 100</value>
+  </data>
+  <data name="nineButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="nineButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="nineButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="nineButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="nineButton.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="nineButton.Text" xml:space="preserve">
+    <value>&amp;9</value>
+  </data>
+  <data name="&gt;&gt;nineButton.Name" xml:space="preserve">
+    <value>nineButton</value>
+  </data>
+  <data name="&gt;&gt;nineButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nineButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;nineButton.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <metadata name="EqualButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="EqualButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Right</value>
+  </data>
+  <data name="EqualButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="EqualButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="EqualButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 237</value>
+  </data>
+  <data name="EqualButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="EqualButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="EqualButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="EqualButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="EqualButton.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="EqualButton.Text" xml:space="preserve">
+    <value>&amp;=</value>
+  </data>
+  <data name="&gt;&gt;EqualButton.Name" xml:space="preserve">
+    <value>EqualButton</value>
+  </data>
+  <data name="&gt;&gt;EqualButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EqualButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;EqualButton.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <metadata name="MultiplyButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="MultiplyButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="MultiplyButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="MultiplyButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 191</value>
+  </data>
+  <data name="MultiplyButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="MultiplyButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MultiplyButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MultiplyButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MultiplyButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="MultiplyButton.Text" xml:space="preserve">
+    <value>x</value>
+  </data>
+  <data name="&gt;&gt;MultiplyButton.Name" xml:space="preserve">
+    <value>MultiplyButton</value>
+  </data>
+  <data name="&gt;&gt;MultiplyButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MultiplyButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MultiplyButton.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <metadata name="PlusButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="PlusButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="PlusButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="PlusButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 145</value>
+  </data>
+  <data name="PlusButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="PlusButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="PlusButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="PlusButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="PlusButton.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="PlusButton.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="&gt;&gt;PlusButton.Name" xml:space="preserve">
+    <value>PlusButton</value>
+  </data>
+  <data name="&gt;&gt;PlusButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PlusButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;PlusButton.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <metadata name="MinusButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="MinusButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="MinusButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="MinusButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 145</value>
+  </data>
+  <data name="MinusButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="MinusButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MinusButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MinusButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MinusButton.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="MinusButton.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;MinusButton.Name" xml:space="preserve">
+    <value>MinusButton</value>
+  </data>
+  <data name="&gt;&gt;MinusButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MinusButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MinusButton.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <metadata name="DivideButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="DivideButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="DivideButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="DivideButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 191</value>
+  </data>
+  <data name="DivideButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="DivideButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="DivideButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="DivideButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="DivideButton.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="DivideButton.Text" xml:space="preserve">
+    <value>÷</value>
+  </data>
+  <data name="&gt;&gt;DivideButton.Name" xml:space="preserve">
+    <value>DivideButton</value>
+  </data>
+  <data name="&gt;&gt;DivideButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DivideButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;DivideButton.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <metadata name="MainDisplay.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="MainDisplay.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="MainDisplay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 21</value>
+  </data>
+  <data name="MainDisplay.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="MainDisplay.PlaceholderText" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="MainDisplay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>261, 27</value>
+  </data>
+  <data name="MainDisplay.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;MainDisplay.Name" xml:space="preserve">
+    <value>MainDisplay</value>
+  </data>
+  <data name="&gt;&gt;MainDisplay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MainDisplay.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MainDisplay.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="SecondDisplay.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="SecondDisplay.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt</value>
+  </data>
+  <data name="SecondDisplay.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, -3</value>
+  </data>
+  <data name="SecondDisplay.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="SecondDisplay.Size" type="System.Drawing.Size, System.Drawing">
+    <value>261, 27</value>
+  </data>
+  <data name="SecondDisplay.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;SecondDisplay.Name" xml:space="preserve">
+    <value>SecondDisplay</value>
+  </data>
+  <data name="&gt;&gt;SecondDisplay.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SecondDisplay.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;SecondDisplay.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="AllClear.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="AllClear.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="AllClear.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="AllClear.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="AllClear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 54</value>
+  </data>
+  <data name="AllClear.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="AllClear.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>103, 42</value>
+  </data>
+  <data name="AllClear.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>103, 42</value>
+  </data>
+  <data name="AllClear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 42</value>
+  </data>
+  <data name="AllClear.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="AllClear.Text" xml:space="preserve">
+    <value>AC</value>
+  </data>
+  <data name="&gt;&gt;AllClear.Name" xml:space="preserve">
+    <value>AllClear</value>
+  </data>
+  <data name="&gt;&gt;AllClear.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AllClear.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;AllClear.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="percentageButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="percentageButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="percentageButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="percentageButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 99</value>
+  </data>
+  <data name="percentageButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="percentageButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="percentageButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="percentageButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="percentageButton.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="percentageButton.Text" xml:space="preserve">
+    <value>%</value>
+  </data>
+  <data name="&gt;&gt;percentageButton.Name" xml:space="preserve">
+    <value>percentageButton</value>
+  </data>
+  <data name="&gt;&gt;percentageButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;percentageButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;percentageButton.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="decimalbutton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="decimalbutton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="decimalbutton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="decimalbutton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 237</value>
+  </data>
+  <data name="decimalbutton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="decimalbutton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="decimalbutton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="decimalbutton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="decimalbutton.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="decimalbutton.Text" xml:space="preserve">
+    <value>&amp;.</value>
+  </data>
+  <data name="&gt;&gt;decimalbutton.Name" xml:space="preserve">
+    <value>decimalbutton</value>
+  </data>
+  <data name="&gt;&gt;decimalbutton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;decimalbutton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;decimalbutton.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <metadata name="MemoryButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="MemoryButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="MemoryButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="MemoryButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>125, 54</value>
+  </data>
+  <data name="MemoryButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="MemoryButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MemoryButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MemoryButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="MemoryButton.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="MemoryButton.Text" xml:space="preserve">
+    <value>M+</value>
+  </data>
+  <data name="&gt;&gt;MemoryButton.Name" xml:space="preserve">
+    <value>MemoryButton</value>
+  </data>
+  <data name="&gt;&gt;MemoryButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MemoryButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;MemoryButton.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="GetMemoryButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="GetMemoryButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="GetMemoryButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 13pt, style=Bold</value>
+  </data>
+  <data name="GetMemoryButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 99</value>
+  </data>
+  <data name="GetMemoryButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="GetMemoryButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="GetMemoryButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="GetMemoryButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="GetMemoryButton.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="GetMemoryButton.Text" xml:space="preserve">
+    <value>M-</value>
+  </data>
+  <data name="&gt;&gt;GetMemoryButton.Name" xml:space="preserve">
+    <value>GetMemoryButton</value>
+  </data>
+  <data name="&gt;&gt;GetMemoryButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GetMemoryButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;GetMemoryButton.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <metadata name="pibutton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="pibutton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="pibutton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="pibutton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 237</value>
+  </data>
+  <data name="pibutton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="pibutton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="pibutton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="pibutton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="pibutton.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="pibutton.Text" xml:space="preserve">
+    <value>π</value>
+  </data>
+  <data name="&gt;&gt;pibutton.Name" xml:space="preserve">
+    <value>pibutton</value>
+  </data>
+  <data name="&gt;&gt;pibutton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pibutton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pibutton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="oneButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="oneButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="oneButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt, style=Bold</value>
+  </data>
+  <data name="oneButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 191</value>
+  </data>
+  <data name="oneButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="oneButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="oneButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="oneButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="oneButton.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="oneButton.Text" xml:space="preserve">
+    <value>&amp;1</value>
+  </data>
+  <data name="&gt;&gt;oneButton.Name" xml:space="preserve">
+    <value>oneButton</value>
+  </data>
+  <data name="&gt;&gt;oneButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;oneButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;oneButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="VisualButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="VisualButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="VisualButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 13pt, style=Bold</value>
+  </data>
+  <data name="VisualButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 54</value>
+  </data>
+  <data name="VisualButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="VisualButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="VisualButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="VisualButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="VisualButton.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="VisualButton.Text" xml:space="preserve">
+    <value>VIS</value>
+  </data>
+  <data name="&gt;&gt;VisualButton.Name" xml:space="preserve">
+    <value>VisualButton</value>
+  </data>
+  <data name="&gt;&gt;VisualButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;VisualButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;VisualButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="BackspaceButton.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="BackspaceButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="BackspaceButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 13pt, style=Bold</value>
+  </data>
+  <data name="BackspaceButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 54</value>
+  </data>
+  <data name="BackspaceButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="BackspaceButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="BackspaceButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="BackspaceButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 42</value>
+  </data>
+  <data name="BackspaceButton.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="BackspaceButton.Text" xml:space="preserve">
+    <value>⌫</value>
+  </data>
+  <data name="&gt;&gt;BackspaceButton.Name" xml:space="preserve">
+    <value>BackspaceButton</value>
+  </data>
+  <data name="&gt;&gt;BackspaceButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BackspaceButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BackspaceButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>300, 307</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAGiAAAAEAIACoDQAAFgAAACgAAAAaAAAAQAAAAAEAIAAAAAAAAA0AACUWAAAlFgAAAAAAAAAA
+        AABGNjb/VCYm/1UlJf9VJSX/VSUl/1UlJf9VJSX/VSUl/1UlJf9VJSX/VSUl/1UlJf9VJSX/VSUl/1Qm
+        Jv9LLy//VSYm/1UlJf9VJSX/VCcn/0svL/9VJib/VSUl/1UlJf9UJyf/Rjk5/1IpKf97AgL/fgEB/34B
+        Af9+AQH/fgEB/34BAf+BBgb/fwMD/34BAf9+AQH/fgEB/34BAf9+AQH/egMD/2AWFv98AgL/gAQE/38C
+        Av96AwP/YRYW/3wCAv9/AQH/fgEB/3oEBP9OLS3/Uikp/30BAf+AAAD/gAAA/4AAAP+AAAD/gQIB/6lS
+        UP+WLjH/fwAA/4AAAP+AAAD/gAAA/4AAAP98AgL/YRYW/34BAf+HDg7/gwcH/3wDAv9iFhb/fwIC/5kx
+        MP+KFhf/ewIC/08uLv9SKSn/fQEB/4AAAP+AAAD/gAAA/4AAAP+BAQH/nDc2/48fIf+AAAD/gAAA/4AA
+        AP+AAAD/gAAA/3wCAv9hFhb/fgEB/4AAAP+AAAD/fAMD/2IWFv9/AQH/iBAQ/4QHB/98AwP/Ty4u/1Eq
+        Kv95BAT/ewMD/3sDA/97AwP/fAMD/3sDA/97AgL/ewIC/3sDA/98AwP/ewMD/3sDA/97AwP/eAUF/14Y
+        GP95BAT/ewMD/3sDA/94Bgb/XxgY/3kEBP97AgL/ewMD/3gGBv9OLi7/RzEx/1sWFv9dFRX/XRUV/1wW
+        Fv9VHh7/YRYW/2EVFf9iFRX/YRYW/1geHv9hFhb/YhUV/2IVFf9gFxf/UiIi/2EWFv9iFRX/YhUV/18Y
+        GP9SJCT/YRYW/2IVFf9iFRX/XxgY/0Y1Nf9MKSn/eAIC/38EA/9+AwP/eAMD/1wXF/98AwP/hAsL/4EF
+        Bv97AwP/YBcX/3wCAv+DCQn/gAQE/3sDA/9kEhL/fgIC/4MJCf+ABAT/eQUF/2EWFv9+AQH/fwMD/38B
+        Af95BQX/SzAw/00pKf96AAD/liwq/44dH/96AAD/XRYW/30CAf+lSEf/kSUn/3wBAf9hFhb/fQEA/6JE
+        Qv+SJyr/ewAA/2USEv+AAwL/qlRS/44eIf95AgL/YhUV/4ABAf+WKyv/hw4P/3oDA/9LMDD/TSkp/3sA
+        AP+SIyL/ihMV/3sBAf9dFhb/fQEB/5UnJ/+MGRv/fAEB/2EWFv99AAD/lSop/4sXGP98AQH/ZRIS/4AC
+        Af+LFhX/hAgJ/3oDA/9iFRX/fwAA/4cODv+CBAT/egQE/0swMP9LKir/cwUF/3cDA/94AwP/cwYG/1oY
+        GP94Bgb/egMD/3oDA/94Bgb/XhgY/3gFBf96AwP/egMD/3cGBv9iFRX/eQUF/3oCAv96AwP/dQcH/18X
+        F/95BAT/egMD/3oDA/91Bwf/SjEx/0gxMf9dFhb/XxUV/18VFf9dFxf/UCQk/2EXF/9iFRX/YhUV/2EX
+        F/9RJCT/YBYW/2IVFf9iFRX/YBcX/1MhIf9iFhb/YhUV/2IVFf9fGBj/USUl/2EWFv9iFRX/YhUV/2AX
+        F/9HNDT/Uikp/3wBAf+CBQX/gQUF/3wCAv9hFhb/fAIC/4MJCf+BBAX/fAIC/2AWFv98AQH/gwkI/4EF
+        Bf97AgL/ZBIS/34BAf+AAwP/fwEB/3kEBP9eGRn/fQEB/38AAP9/AAD/ewMD/04tLf9SKSn/fQEB/6dN
+        S/+ZNTj/fAAA/2EWFv99AQH/pEhG/5MoKv98AQH/YRYW/34CAv+tWlj/lS4w/3sBAf9lEhL/gAEB/5ky
+        Mv+IERL/egMD/18ZGf9+AQH/iBAQ/4MHB/98AgL/Ti0t/1IpKf99AAD/kB8e/4wZG/99AQH/YRYW/30B
+        Af+XLSz/ihQW/30BAf9hFhb/fgEB/5YrKv+KFRb/fAEB/2USEv9/AQH/hgwM/4IEBP96BAT/XxkZ/34B
+        Af+CAwP/gQEB/3wDA/9OLS3/UCsr/3cFBf95AwP/eQMD/3cGBv9dGRn/dwYG/3kDA/95BAT/dwYG/10Z
+        Gf93BQX/eAMD/3kEBP92Bgb/YRUV/3gFBf95BAT/eQQE/3QICP9cHBz/dwUF/3kEBP95BAT/dgcH/00u
+        Lv9KMDD/YRUV/2IUFP9jFRX/YRYW/1IkJP9hFhb/YhQU/2MUFP9hFhb/UiQk/2EVFf9iFBT/YxUV/2AW
+        Fv9UISH/YhUV/2IUFP9iFBT/XxcX/1IkJP9iFRX/YhQU/2MUFP9gFxf/RjU1/1IpKf98AQH/gwYG/4AC
+        Av99AgL/YRYW/30CAv+FCwr/ggYG/3wCAv9hFhb/fQEB/4QJCf+BBAT/ewIC/2USEv9/AQH/hAgI/4MJ
+        Cf95BAT/YhUV/38BAf+FCwv/ggYG/3kEBP9LMDD/Uikp/3wAAP+ZMTD/jh8h/3wAAP9hFhb/fQIC/65b
+        Wf+YMzb/ewAA/2EWFv9+AgH/q1VT/5cxNP97AAD/ZRIS/4MJCP+uXVv/mzk7/3kCA/9iFRX/hQoI/7Nm
+        Zf+TKSv/eQIC/0swMP9SKSn/fQEA/5QnJv+OHR//fQEB/2EWFv99AQH/ly0r/4wZGv99AQH/YRYW/34B
+        Af+ZMC//jBga/3wBAf9lERH/hAoJ/5o0NP+JERL/egMD/2IVFf+BAwP/jhoa/4UKC/96AwP/SzAw/1Ar
+        K/91Bgb/eAQE/3gEBP91Bwf/XBoa/3UHB/93AwP/eAQE/3YHB/9dGRn/dQYG/3cDA/94BAT/dQcH/2AW
+        Fv93Bgb/dwMD/3gFBf9zCQn/XhgY/3gEBP94AwP/eQQE/3QICP9LMjL/Sy4u/2IVFf9jFBT/YxQU/2MU
+        FP9fFxf/YxQU/2MUFP9jFBT/YhYW/1ElJf9eGBj/YBgY/2AYGP9eGRn/USUl/18YGP9gGBj/YBgY/14a
+        Gv9JMDD/SDQ0/0k0NP9JNDT/SDU1/0I9Pf9VJSX/fgEB/4AAAP+BAwP/hw0N/4kREf+GDA3/gAAA/4AA
+        AP99AgL/YRYW/34FBf+DBwj/gQMD/3sDA/9hFhb/fwQE/4MICP+BAwP/fAIC/04uLv8+QkL/P0FB/z9B
+        Qf8/QUH/QUFB/1UlJf9+AQH/gAAA/4UKCf+4b27/uHJz/5QrLf9/AAD/gAAA/30CAv9gFBT/nT89/7hy
+        cv+ePj//gQ4O/2ATE/+ULCr/unZ3/5kzNv99BAT/Ti4u/z9BQf9AQED/QEBA/0BAQP9AQED/VSUl/38B
+        Af+BAAD/gQAA/5UpKf+WKyv/jh0e/4AAAP+BAAD/fQIC/2EVFf+MHh3/mDAw/4kSE/99BAT/YRQU/4kV
+        Ff+ZMTH/iRIT/30BAf9OLi7/P0FB/0BAQP9AQED/QEBA/0BAQP9SJyf/dgYG/3gFBf94BQX/dwMD/3cD
+        A/93BAT/eAUF/3gFBf91Bwf/XRkZ/3YDA/95AQH/eQIC/3YFBf9eGBj/dwMD/3kBAf95AgL/dwUF/0wv
+        L/8/QUH/QEBA/0BAQP9AQED/QEBA/0Q9Pf9NOzv/TTs7/007O/9NOzv/TTs7/007O/9NOzv/TTs7/008
+        PP9KPj7/Tzk5/1A5Of9QOTn/Tzk5/0s9Pf9POTn/UDk5/1A5Of9POTn/SEJC/0ZGRv9GRkb/RkZG/0ZG
+        Rv9CQkL/Tk9P/29wcP91dnb/dnd3/3Z3d/92d3f/dnd3/3Z3d/92d3f/dnd3/3Z3d/92d3f/dnd3/3Z3
+        d/92d3f/dnd3/3Z3d/92d3f/dnd3/3Z3d/92dnb/dnZ2/3Z2dv92dnb/dHR0/1BQUP9RUVH/d3d3/4CA
+        gP+BgYH/gYGB/4GBgf+BgYH/gYGB/4GBgf+BgYH/gYGB/4GBgf+BgYH/gYGB/4GBgf+BgYH/gYGB/4GB
+        gf+BgYH/gYGB/4GBgf+BgYH/gYGB/4GBgf9+fn7/U1NT/1NTU/99fX3/gICA/4CAgP+AgID/gICA/4CA
+        gP+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/gICA/4CA
+        gP+AgID/gICA/319ff9WVVX/U1NT/319ff+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/gICA/4CA
+        gP+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/gICA/4CAgP+AgID/fX19/1dW
+        Vv9TU1P/fHx8/39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/
+        f/9/f3//f39//39/f/9/f3//f39//39/f/9/f3//f39//39/f/98fHz/VlVV/0dHR/9WVlb/V1dX/1dX
+        V/9XV1f/V1dX/1dXV/9XV1f/V1dX/1dXV/9XV1f/V1dX/1dXV/9XV1f/V1dX/1dXV/9XV1f/V1dX/1dX
+        V/9XV1f/V1dX/1dXV/9XV1f/V1dX/1ZWVv9HR0f/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>320, 350</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>320, 350</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>Manual</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Calculator</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Calculator</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

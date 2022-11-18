@@ -332,8 +332,16 @@ namespace Calculator
 
         private void MemoryButton_Click_1(object sender, EventArgs e)//makes the memory button function and stores memory
         {
-            Memory = int.Parse(MainDisplay.Text);
-            EqualButton.Enabled = true;
+            if (MainDisplay.Text == "" && MainDisplay.Text != null)
+            {
+                Memory = 0;
+                EqualButton.Enabled = true;
+            }
+            else
+            {
+                Memory = int.Parse(MainDisplay.Text);
+                EqualButton.Enabled = true;
+            }
 
         }
         private void GetMemoryButton_Click_1(object sender, EventArgs e)//makes the memory button function and grabs from memory
@@ -372,6 +380,10 @@ namespace Calculator
                 MainDisplay.Text = "";
 
             }
+        }
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

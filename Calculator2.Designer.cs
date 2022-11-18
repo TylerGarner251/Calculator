@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Calculator2));
             this.oneButton = new Guna.UI2.WinForms.Guna2CircleButton();
             this.twoButton = new Guna.UI2.WinForms.Guna2CircleButton();
             this.threeButton = new Guna.UI2.WinForms.Guna2CircleButton();
@@ -64,14 +65,10 @@
             this.oneButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.oneButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.oneButton.FillColor = System.Drawing.Color.Navy;
-            this.oneButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.oneButton, "oneButton");
             this.oneButton.ForeColor = System.Drawing.Color.White;
-            this.oneButton.Location = new System.Drawing.Point(12, 337);
             this.oneButton.Name = "oneButton";
             this.oneButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.oneButton.Size = new System.Drawing.Size(70, 70);
-            this.oneButton.TabIndex = 0;
-            this.oneButton.Text = "&1";
             this.oneButton.Click += new System.EventHandler(this.oneButton_Click);
             // 
             // twoButton
@@ -83,14 +80,10 @@
             this.twoButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.twoButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.twoButton.FillColor = System.Drawing.Color.Navy;
-            this.twoButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.twoButton, "twoButton");
             this.twoButton.ForeColor = System.Drawing.Color.White;
-            this.twoButton.Location = new System.Drawing.Point(88, 337);
             this.twoButton.Name = "twoButton";
             this.twoButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.twoButton.Size = new System.Drawing.Size(70, 70);
-            this.twoButton.TabIndex = 1;
-            this.twoButton.Text = "&2";
             this.twoButton.Click += new System.EventHandler(this.twoButton_Click);
             // 
             // threeButton
@@ -102,14 +95,10 @@
             this.threeButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.threeButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.threeButton.FillColor = System.Drawing.Color.Navy;
-            this.threeButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.threeButton, "threeButton");
             this.threeButton.ForeColor = System.Drawing.Color.White;
-            this.threeButton.Location = new System.Drawing.Point(164, 337);
             this.threeButton.Name = "threeButton";
             this.threeButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.threeButton.Size = new System.Drawing.Size(70, 70);
-            this.threeButton.TabIndex = 2;
-            this.threeButton.Text = "&3";
             this.threeButton.Click += new System.EventHandler(this.threeButton_Click);
             // 
             // fourButton
@@ -121,14 +110,10 @@
             this.fourButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.fourButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.fourButton.FillColor = System.Drawing.Color.Navy;
-            this.fourButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.fourButton, "fourButton");
             this.fourButton.ForeColor = System.Drawing.Color.White;
-            this.fourButton.Location = new System.Drawing.Point(12, 261);
             this.fourButton.Name = "fourButton";
             this.fourButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.fourButton.Size = new System.Drawing.Size(70, 70);
-            this.fourButton.TabIndex = 3;
-            this.fourButton.Text = "&4";
             this.fourButton.Click += new System.EventHandler(this.fourButton_Click);
             // 
             // fiveButton
@@ -140,14 +125,10 @@
             this.fiveButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.fiveButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.fiveButton.FillColor = System.Drawing.Color.Navy;
-            this.fiveButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.fiveButton, "fiveButton");
             this.fiveButton.ForeColor = System.Drawing.Color.White;
-            this.fiveButton.Location = new System.Drawing.Point(88, 261);
             this.fiveButton.Name = "fiveButton";
             this.fiveButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.fiveButton.Size = new System.Drawing.Size(70, 70);
-            this.fiveButton.TabIndex = 4;
-            this.fiveButton.Text = "&5";
             this.fiveButton.Click += new System.EventHandler(this.fiveButton_Click);
             // 
             // sixButton
@@ -159,14 +140,10 @@
             this.sixButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.sixButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.sixButton.FillColor = System.Drawing.Color.Navy;
-            this.sixButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.sixButton, "sixButton");
             this.sixButton.ForeColor = System.Drawing.Color.White;
-            this.sixButton.Location = new System.Drawing.Point(164, 261);
             this.sixButton.Name = "sixButton";
             this.sixButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.sixButton.Size = new System.Drawing.Size(70, 70);
-            this.sixButton.TabIndex = 5;
-            this.sixButton.Text = "&6";
             this.sixButton.Click += new System.EventHandler(this.sixButton_Click);
             // 
             // sevenButton
@@ -178,14 +155,10 @@
             this.sevenButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.sevenButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.sevenButton.FillColor = System.Drawing.Color.Navy;
-            this.sevenButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.sevenButton, "sevenButton");
             this.sevenButton.ForeColor = System.Drawing.Color.White;
-            this.sevenButton.Location = new System.Drawing.Point(12, 185);
             this.sevenButton.Name = "sevenButton";
             this.sevenButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.sevenButton.Size = new System.Drawing.Size(70, 70);
-            this.sevenButton.TabIndex = 6;
-            this.sevenButton.Text = "&7";
             this.sevenButton.Click += new System.EventHandler(this.sevenButton_Click);
             // 
             // eightButton
@@ -197,14 +170,10 @@
             this.eightButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.eightButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.eightButton.FillColor = System.Drawing.Color.Navy;
-            this.eightButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.eightButton, "eightButton");
             this.eightButton.ForeColor = System.Drawing.Color.White;
-            this.eightButton.Location = new System.Drawing.Point(88, 185);
             this.eightButton.Name = "eightButton";
             this.eightButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.eightButton.Size = new System.Drawing.Size(70, 70);
-            this.eightButton.TabIndex = 7;
-            this.eightButton.Text = "&8";
             this.eightButton.Click += new System.EventHandler(this.eightButton_Click);
             // 
             // nineButton
@@ -216,14 +185,10 @@
             this.nineButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.nineButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.nineButton.FillColor = System.Drawing.Color.Navy;
-            this.nineButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.nineButton, "nineButton");
             this.nineButton.ForeColor = System.Drawing.Color.White;
-            this.nineButton.Location = new System.Drawing.Point(164, 185);
             this.nineButton.Name = "nineButton";
             this.nineButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.nineButton.Size = new System.Drawing.Size(70, 70);
-            this.nineButton.TabIndex = 8;
-            this.nineButton.Text = "&9";
             this.nineButton.Click += new System.EventHandler(this.nineButton_Click);
             // 
             // zeroButton
@@ -235,39 +200,28 @@
             this.zeroButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.zeroButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.zeroButton.FillColor = System.Drawing.Color.Navy;
-            this.zeroButton.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.zeroButton, "zeroButton");
             this.zeroButton.ForeColor = System.Drawing.Color.White;
-            this.zeroButton.Location = new System.Drawing.Point(88, 413);
             this.zeroButton.Name = "zeroButton";
             this.zeroButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.zeroButton.Size = new System.Drawing.Size(70, 70);
-            this.zeroButton.TabIndex = 9;
-            this.zeroButton.Text = "&0";
             this.zeroButton.Click += new System.EventHandler(this.zeroButton_Click);
             // 
             // SecondDisplay
             // 
             this.SecondDisplay.BackColor = System.Drawing.Color.Gray;
             this.SecondDisplay.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.SecondDisplay.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.SecondDisplay, "SecondDisplay");
             this.SecondDisplay.ForeColor = System.Drawing.Color.White;
-            this.SecondDisplay.Location = new System.Drawing.Point(12, 12);
             this.SecondDisplay.Name = "SecondDisplay";
-            this.SecondDisplay.Size = new System.Drawing.Size(373, 40);
-            this.SecondDisplay.TabIndex = 18;
             this.SecondDisplay.TextChanged += new System.EventHandler(this.SecondDisplay_TextChanged);
             // 
             // MainDisplay
             // 
             this.MainDisplay.BackColor = System.Drawing.Color.Gray;
             this.MainDisplay.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.MainDisplay.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.MainDisplay, "MainDisplay");
             this.MainDisplay.ForeColor = System.Drawing.Color.White;
-            this.MainDisplay.Location = new System.Drawing.Point(12, 47);
             this.MainDisplay.Name = "MainDisplay";
-            this.MainDisplay.PlaceholderText = "0";
-            this.MainDisplay.Size = new System.Drawing.Size(373, 40);
-            this.MainDisplay.TabIndex = 17;
             this.MainDisplay.TextChanged += new System.EventHandler(this.MainDisplay_TextChanged);
             // 
             // AllClear
@@ -279,14 +233,10 @@
             this.AllClear.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.AllClear.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.AllClear.FillColor = System.Drawing.Color.Indigo;
-            this.AllClear.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.AllClear, "AllClear");
             this.AllClear.ForeColor = System.Drawing.Color.White;
-            this.AllClear.Location = new System.Drawing.Point(12, 109);
             this.AllClear.Name = "AllClear";
             this.AllClear.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.AllClear.Size = new System.Drawing.Size(70, 70);
-            this.AllClear.TabIndex = 19;
-            this.AllClear.Text = "AC";
             this.AllClear.Click += new System.EventHandler(this.AllClear_Click_1);
             // 
             // MemoryButton
@@ -298,14 +248,10 @@
             this.MemoryButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.MemoryButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.MemoryButton.FillColor = System.Drawing.Color.Indigo;
-            this.MemoryButton.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.MemoryButton, "MemoryButton");
             this.MemoryButton.ForeColor = System.Drawing.Color.White;
-            this.MemoryButton.Location = new System.Drawing.Point(88, 109);
             this.MemoryButton.Name = "MemoryButton";
             this.MemoryButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.MemoryButton.Size = new System.Drawing.Size(70, 70);
-            this.MemoryButton.TabIndex = 20;
-            this.MemoryButton.Text = "M+";
             this.MemoryButton.Click += new System.EventHandler(this.MemoryButton_Click_1);
             // 
             // GetMemoryButton
@@ -317,18 +263,15 @@
             this.GetMemoryButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.GetMemoryButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.GetMemoryButton.FillColor = System.Drawing.Color.Indigo;
-            this.GetMemoryButton.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.GetMemoryButton, "GetMemoryButton");
             this.GetMemoryButton.ForeColor = System.Drawing.Color.White;
-            this.GetMemoryButton.Location = new System.Drawing.Point(164, 109);
             this.GetMemoryButton.Name = "GetMemoryButton";
             this.GetMemoryButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.GetMemoryButton.Size = new System.Drawing.Size(70, 70);
-            this.GetMemoryButton.TabIndex = 21;
-            this.GetMemoryButton.Text = "M-";
             this.GetMemoryButton.Click += new System.EventHandler(this.GetMemoryButton_Click_1);
             // 
             // EqualButton
             // 
+            resources.ApplyResources(this.EqualButton, "EqualButton");
             this.EqualButton.Animated = true;
             this.EqualButton.BorderColor = System.Drawing.Color.White;
             this.EqualButton.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -336,14 +279,9 @@
             this.EqualButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.EqualButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.EqualButton.FillColor = System.Drawing.Color.Indigo;
-            this.EqualButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.EqualButton.ForeColor = System.Drawing.Color.White;
-            this.EqualButton.Location = new System.Drawing.Point(315, 413);
             this.EqualButton.Name = "EqualButton";
             this.EqualButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.EqualButton.Size = new System.Drawing.Size(70, 70);
-            this.EqualButton.TabIndex = 22;
-            this.EqualButton.Text = "&=";
             this.EqualButton.Click += new System.EventHandler(this.EqualButton_Click_1);
             // 
             // decimalbutton
@@ -355,14 +293,10 @@
             this.decimalbutton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.decimalbutton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.decimalbutton.FillColor = System.Drawing.Color.Navy;
-            this.decimalbutton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.decimalbutton, "decimalbutton");
             this.decimalbutton.ForeColor = System.Drawing.Color.White;
-            this.decimalbutton.Location = new System.Drawing.Point(239, 413);
             this.decimalbutton.Name = "decimalbutton";
             this.decimalbutton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.decimalbutton.Size = new System.Drawing.Size(70, 70);
-            this.decimalbutton.TabIndex = 23;
-            this.decimalbutton.Text = "&.";
             this.decimalbutton.Click += new System.EventHandler(this.decimalbutton_Click_1);
             // 
             // MultiplyButton
@@ -374,14 +308,10 @@
             this.MultiplyButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.MultiplyButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.MultiplyButton.FillColor = System.Drawing.Color.Indigo;
-            this.MultiplyButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.MultiplyButton, "MultiplyButton");
             this.MultiplyButton.ForeColor = System.Drawing.Color.White;
-            this.MultiplyButton.Location = new System.Drawing.Point(239, 337);
             this.MultiplyButton.Name = "MultiplyButton";
             this.MultiplyButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.MultiplyButton.Size = new System.Drawing.Size(70, 70);
-            this.MultiplyButton.TabIndex = 24;
-            this.MultiplyButton.Text = "X";
             this.MultiplyButton.Click += new System.EventHandler(this.MultiplyButton_Click_1);
             // 
             // DivideButton
@@ -393,14 +323,10 @@
             this.DivideButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.DivideButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.DivideButton.FillColor = System.Drawing.Color.Indigo;
-            this.DivideButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.DivideButton, "DivideButton");
             this.DivideButton.ForeColor = System.Drawing.Color.White;
-            this.DivideButton.Location = new System.Drawing.Point(315, 337);
             this.DivideButton.Name = "DivideButton";
             this.DivideButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.DivideButton.Size = new System.Drawing.Size(70, 70);
-            this.DivideButton.TabIndex = 25;
-            this.DivideButton.Text = "÷";
             this.DivideButton.Click += new System.EventHandler(this.DivideButton_Click_1);
             // 
             // PlusButton
@@ -412,14 +338,10 @@
             this.PlusButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.PlusButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.PlusButton.FillColor = System.Drawing.Color.Indigo;
-            this.PlusButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.PlusButton, "PlusButton");
             this.PlusButton.ForeColor = System.Drawing.Color.White;
-            this.PlusButton.Location = new System.Drawing.Point(239, 261);
             this.PlusButton.Name = "PlusButton";
             this.PlusButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.PlusButton.Size = new System.Drawing.Size(70, 70);
-            this.PlusButton.TabIndex = 26;
-            this.PlusButton.Text = "+";
             this.PlusButton.Click += new System.EventHandler(this.PlusButton_Click_1);
             // 
             // MinusButton
@@ -431,14 +353,10 @@
             this.MinusButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.MinusButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.MinusButton.FillColor = System.Drawing.Color.Indigo;
-            this.MinusButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.MinusButton, "MinusButton");
             this.MinusButton.ForeColor = System.Drawing.Color.White;
-            this.MinusButton.Location = new System.Drawing.Point(315, 261);
             this.MinusButton.Name = "MinusButton";
             this.MinusButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.MinusButton.Size = new System.Drawing.Size(70, 70);
-            this.MinusButton.TabIndex = 27;
-            this.MinusButton.Text = "-";
             this.MinusButton.Click += new System.EventHandler(this.MinusButton_Click_1);
             // 
             // percentageButton
@@ -450,14 +368,10 @@
             this.percentageButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.percentageButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.percentageButton.FillColor = System.Drawing.Color.Indigo;
-            this.percentageButton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.percentageButton, "percentageButton");
             this.percentageButton.ForeColor = System.Drawing.Color.White;
-            this.percentageButton.Location = new System.Drawing.Point(239, 185);
             this.percentageButton.Name = "percentageButton";
             this.percentageButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.percentageButton.Size = new System.Drawing.Size(70, 70);
-            this.percentageButton.TabIndex = 28;
-            this.percentageButton.Text = "%";
             this.percentageButton.Click += new System.EventHandler(this.percentageButton_Click_1);
             // 
             // pibutton
@@ -469,14 +383,10 @@
             this.pibutton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.pibutton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.pibutton.FillColor = System.Drawing.Color.Indigo;
-            this.pibutton.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.pibutton, "pibutton");
             this.pibutton.ForeColor = System.Drawing.Color.White;
-            this.pibutton.Location = new System.Drawing.Point(315, 185);
             this.pibutton.Name = "pibutton";
             this.pibutton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.pibutton.Size = new System.Drawing.Size(70, 70);
-            this.pibutton.TabIndex = 29;
-            this.pibutton.Text = "π";
             this.pibutton.Click += new System.EventHandler(this.pibutton_Click_1);
             // 
             // VisualButton
@@ -488,14 +398,10 @@
             this.VisualButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.VisualButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.VisualButton.FillColor = System.Drawing.Color.BlueViolet;
-            this.VisualButton.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.VisualButton, "VisualButton");
             this.VisualButton.ForeColor = System.Drawing.Color.White;
-            this.VisualButton.Location = new System.Drawing.Point(315, 109);
             this.VisualButton.Name = "VisualButton";
             this.VisualButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.VisualButton.Size = new System.Drawing.Size(70, 70);
-            this.VisualButton.TabIndex = 30;
-            this.VisualButton.Text = "VIS";
             this.VisualButton.Click += new System.EventHandler(this.VisualButton_Click_1);
             // 
             // BackspaceButton
@@ -507,22 +413,17 @@
             this.BackspaceButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.BackspaceButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.BackspaceButton.FillColor = System.Drawing.Color.Indigo;
-            this.BackspaceButton.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.BackspaceButton, "BackspaceButton");
             this.BackspaceButton.ForeColor = System.Drawing.Color.White;
-            this.BackspaceButton.Location = new System.Drawing.Point(239, 109);
             this.BackspaceButton.Name = "BackspaceButton";
             this.BackspaceButton.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.BackspaceButton.Size = new System.Drawing.Size(70, 70);
-            this.BackspaceButton.TabIndex = 31;
-            this.BackspaceButton.Text = "⌫";
             this.BackspaceButton.Click += new System.EventHandler(this.BackspaceButton_Click);
             // 
             // Calculator2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            resources.ApplyResources(this, "$this");
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.ClientSize = new System.Drawing.Size(397, 493);
             this.Controls.Add(this.BackspaceButton);
             this.Controls.Add(this.VisualButton);
             this.Controls.Add(this.pibutton);
@@ -548,10 +449,9 @@
             this.Controls.Add(this.threeButton);
             this.Controls.Add(this.twoButton);
             this.Controls.Add(this.oneButton);
-            this.MaximumSize = new System.Drawing.Size(419, 549);
-            this.MinimumSize = new System.Drawing.Size(419, 549);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.MaximizeBox = false;
             this.Name = "Calculator2";
-            this.Text = "Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
 

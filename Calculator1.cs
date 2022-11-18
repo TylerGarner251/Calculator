@@ -2,6 +2,7 @@ using System.Globalization;
 using System.Linq.Expressions;
 using System.Reflection;
 using System.Windows.Forms;
+using static System.Windows.Forms.DataFormats;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 namespace Calculator
     {
@@ -332,8 +333,16 @@ namespace Calculator
 
             private void MemoryButton_Click(object sender, EventArgs e)//makes the memory button function and stores memory
         {
+            if (MainDisplay.Text == "" && MainDisplay.Text != null)
+            {
+                Memory = 0;
+                EqualButton.Enabled = true;
+            }
+            else
+            {
                 Memory = int.Parse(MainDisplay.Text);
-            EqualButton.Enabled = true;
+                EqualButton.Enabled = true;
+            }
 
         }
             private void GetMemoryButton_Click(object sender, EventArgs e)//makes the memory button function and grabs from memory
@@ -372,6 +381,10 @@ namespace Calculator
                 MainDisplay.Text = "";
 
             }
+        }
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
     }
