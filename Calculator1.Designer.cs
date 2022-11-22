@@ -187,7 +187,7 @@
             this.MainDisplay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.MainDisplay.BorderStyle = System.Windows.Forms.BorderStyle.None;
             resources.ApplyResources(this.MainDisplay, "MainDisplay");
-            this.MainDisplay.ForeColor = System.Drawing.Color.White;
+            this.MainDisplay.ForeColor = System.Drawing.Color.Black;
             this.MainDisplay.Name = "MainDisplay";
             this.MainDisplay.TextChanged += new System.EventHandler(this.MainDisplay_TextChanged);
             // 
@@ -196,15 +196,15 @@
             this.SecondDisplay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.SecondDisplay.BorderStyle = System.Windows.Forms.BorderStyle.None;
             resources.ApplyResources(this.SecondDisplay, "SecondDisplay");
-            this.SecondDisplay.ForeColor = System.Drawing.Color.White;
+            this.SecondDisplay.ForeColor = System.Drawing.Color.Black;
             this.SecondDisplay.Name = "SecondDisplay";
             this.SecondDisplay.TextChanged += new System.EventHandler(this.SecondDisplay_TextChanged);
             // 
             // AllClear
             // 
-            this.AllClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.AllClear.BackColor = System.Drawing.Color.LightCoral;
             resources.ApplyResources(this.AllClear, "AllClear");
-            this.AllClear.ForeColor = System.Drawing.Color.Black;
+            this.AllClear.ForeColor = System.Drawing.Color.White;
             this.AllClear.Name = "AllClear";
             this.AllClear.UseVisualStyleBackColor = false;
             this.AllClear.Click += new System.EventHandler(this.AllClear_Click);

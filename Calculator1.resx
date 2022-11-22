@@ -424,7 +424,7 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="EqualButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>344, 354</value>
+    <value>346, 355</value>
   </data>
   <data name="EqualButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
     <value>74, 63</value>
