@@ -272,7 +272,6 @@
             // EqualButton
             // 
             resources.ApplyResources(this.EqualButton, "EqualButton");
-            this.EqualButton.Animated = true;
             this.EqualButton.BorderColor = System.Drawing.Color.White;
             this.EqualButton.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.EqualButton.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;

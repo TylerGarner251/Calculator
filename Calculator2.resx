@@ -647,7 +647,7 @@
   </metadata>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="EqualButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
+    <value>None</value>
   </data>
   <data name="EqualButton.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 14pt, style=Bold</value>

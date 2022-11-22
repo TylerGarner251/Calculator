@@ -69,20 +69,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="twoButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>72, 191</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="twoButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>108, 286</value>
   </data>
   <data name="twoButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="twoButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="twoButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="twoButton.TabIndex" type="System.Int32, mscorlib">
@@ -113,19 +109,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="threeButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 191</value>
-  </data>
-  <data name="threeButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>188, 286</value>
   </data>
   <data name="threeButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="threeButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="threeButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="threeButton.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -155,19 +148,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="fourButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 145</value>
-  </data>
-  <data name="fourButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>28, 218</value>
   </data>
   <data name="fourButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="fourButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="fourButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="fourButton.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -197,19 +187,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="fiveButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>72, 145</value>
-  </data>
-  <data name="fiveButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>108, 218</value>
   </data>
   <data name="fiveButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="fiveButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="fiveButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="fiveButton.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -239,19 +226,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="zeroButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 237</value>
-  </data>
-  <data name="zeroButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>28, 356</value>
   </data>
   <data name="zeroButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>102, 42</value>
+    <value>153, 63</value>
   </data>
   <data name="zeroButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>102, 42</value>
+    <value>153, 63</value>
   </data>
   <data name="zeroButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>102, 42</value>
+    <value>153, 63</value>
   </data>
   <data name="zeroButton.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -281,19 +265,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="sixButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 145</value>
-  </data>
-  <data name="sixButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>188, 218</value>
   </data>
   <data name="sixButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="sixButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="sixButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="sixButton.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -323,19 +304,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="sevenButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 100</value>
-  </data>
-  <data name="sevenButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>28, 150</value>
   </data>
   <data name="sevenButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="sevenButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="sevenButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="sevenButton.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -365,19 +343,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="eightButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>72, 100</value>
-  </data>
-  <data name="eightButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>108, 150</value>
   </data>
   <data name="eightButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="eightButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="eightButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="eightButton.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -407,19 +382,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="nineButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 100</value>
-  </data>
-  <data name="nineButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>188, 150</value>
   </data>
   <data name="nineButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="nineButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="nineButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="nineButton.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -443,7 +415,7 @@
     <value>True</value>
   </metadata>
   <data name="EqualButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Bottom, Right</value>
+    <value>None</value>
   </data>
   <data name="EqualButton.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
@@ -452,19 +424,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="EqualButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 237</value>
-  </data>
-  <data name="EqualButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>344, 354</value>
   </data>
   <data name="EqualButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="EqualButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="EqualButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="EqualButton.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -494,19 +463,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="MultiplyButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>178, 191</value>
-  </data>
-  <data name="MultiplyButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>267, 286</value>
   </data>
   <data name="MultiplyButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MultiplyButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MultiplyButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MultiplyButton.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -536,19 +502,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="PlusButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>178, 145</value>
-  </data>
-  <data name="PlusButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>267, 218</value>
   </data>
   <data name="PlusButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="PlusButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="PlusButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="PlusButton.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -578,19 +541,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="MinusButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 145</value>
-  </data>
-  <data name="MinusButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>346, 218</value>
   </data>
   <data name="MinusButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MinusButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MinusButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MinusButton.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -620,19 +580,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="DivideButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 191</value>
-  </data>
-  <data name="DivideButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>346, 286</value>
   </data>
   <data name="DivideButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="DivideButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="DivideButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="DivideButton.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -659,16 +616,13 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="MainDisplay.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 21</value>
-  </data>
-  <data name="MainDisplay.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>28, 32</value>
   </data>
   <data name="MainDisplay.PlaceholderText" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="MainDisplay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>261, 27</value>
+    <value>392, 40</value>
   </data>
   <data name="MainDisplay.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -692,13 +646,10 @@
     <value>Segoe UI, 15pt</value>
   </data>
   <data name="SecondDisplay.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, -3</value>
-  </data>
-  <data name="SecondDisplay.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>28, -4</value>
   </data>
   <data name="SecondDisplay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>261, 27</value>
+    <value>392, 40</value>
   </data>
   <data name="SecondDisplay.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -728,19 +679,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="AllClear.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 54</value>
-  </data>
-  <data name="AllClear.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>27, 81</value>
   </data>
   <data name="AllClear.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>103, 42</value>
+    <value>154, 63</value>
   </data>
   <data name="AllClear.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>103, 42</value>
+    <value>154, 63</value>
   </data>
   <data name="AllClear.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 42</value>
+    <value>154, 63</value>
   </data>
   <data name="AllClear.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -770,19 +718,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="percentageButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 99</value>
-  </data>
-  <data name="percentageButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>346, 148</value>
   </data>
   <data name="percentageButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="percentageButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="percentageButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="percentageButton.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -812,19 +757,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="decimalbutton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 237</value>
-  </data>
-  <data name="decimalbutton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>188, 356</value>
   </data>
   <data name="decimalbutton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="decimalbutton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="decimalbutton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="decimalbutton.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -854,19 +796,16 @@
     <value>Segoe UI, 12pt, style=Bold</value>
   </data>
   <data name="MemoryButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>125, 54</value>
-  </data>
-  <data name="MemoryButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>188, 81</value>
   </data>
   <data name="MemoryButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MemoryButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MemoryButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="MemoryButton.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -896,19 +835,16 @@
     <value>Segoe UI, 13pt, style=Bold</value>
   </data>
   <data name="GetMemoryButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>178, 99</value>
-  </data>
-  <data name="GetMemoryButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>267, 148</value>
   </data>
   <data name="GetMemoryButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="GetMemoryButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="GetMemoryButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="GetMemoryButton.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -938,19 +874,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="pibutton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>178, 237</value>
-  </data>
-  <data name="pibutton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>267, 356</value>
   </data>
   <data name="pibutton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="pibutton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="pibutton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="pibutton.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -980,19 +913,16 @@
     <value>Segoe UI, 15pt, style=Bold</value>
   </data>
   <data name="oneButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 191</value>
-  </data>
-  <data name="oneButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>28, 286</value>
   </data>
   <data name="oneButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="oneButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="oneButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="oneButton.TabIndex" type="System.Int32, mscorlib">
     <value>24</value>
@@ -1022,19 +952,16 @@
     <value>Segoe UI, 13pt, style=Bold</value>
   </data>
   <data name="VisualButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 54</value>
-  </data>
-  <data name="VisualButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>346, 81</value>
   </data>
   <data name="VisualButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="VisualButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="VisualButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="VisualButton.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -1064,19 +991,16 @@
     <value>Segoe UI, 13pt, style=Bold</value>
   </data>
   <data name="BackspaceButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>178, 54</value>
-  </data>
-  <data name="BackspaceButton.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
+    <value>267, 81</value>
   </data>
   <data name="BackspaceButton.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="BackspaceButton.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="BackspaceButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 42</value>
+    <value>74, 63</value>
   </data>
   <data name="BackspaceButton.TabIndex" type="System.Int32, mscorlib">
     <value>26</value>
@@ -1103,13 +1027,13 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>96, 96</value>
+    <value>144, 144</value>
   </data>
   <data name="$this.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>300, 307</value>
+    <value>441, 435</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1174,14 +1098,11 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
 </value>
   </data>
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
   <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>320, 350</value>
+    <value>467, 495</value>
   </data>
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>320, 350</value>
+    <value>467, 495</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>Manual</value>
