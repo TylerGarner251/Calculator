@@ -139,8 +139,8 @@
             // 
             // EqualButton
             // 
-            resources.ApplyResources(this.EqualButton, "EqualButton");
             this.EqualButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            resources.ApplyResources(this.EqualButton, "EqualButton");
             this.EqualButton.ForeColor = System.Drawing.Color.Black;
             this.EqualButton.Name = "EqualButton";
             this.EqualButton.UseVisualStyleBackColor = false;

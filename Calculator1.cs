@@ -38,11 +38,11 @@ namespace Calculator
 
         private void twoButton_Click(object sender, EventArgs e)//makes the two button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 2
+            {
                     MainDisplay.Text = "2";
                 }
-                else
+                else //if the display has anything else add one to the end
                 {
                     MainDisplay.Text = MainDisplay.Text + "2";
                 }
@@ -52,10 +52,10 @@ namespace Calculator
 
             private void threeButton_Click(object sender, EventArgs e)//makes the three button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "3";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 3
+            {
+                    MainDisplay.Text = "3";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "3";
@@ -66,10 +66,10 @@ namespace Calculator
 
             private void fourButton_Click(object sender, EventArgs e)//makes the four button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "4";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 4
+            {
+                    MainDisplay.Text = "4";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "4";
@@ -80,10 +80,10 @@ namespace Calculator
 
             private void fiveButton_Click(object sender, EventArgs e)//makes the five button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "5";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 5
+            {
+                    MainDisplay.Text = "5";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "5";
@@ -94,10 +94,10 @@ namespace Calculator
 
             private void sixButton_Click(object sender, EventArgs e)//makes the six button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "6";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 6
+            {
+                    MainDisplay.Text = "6";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "6";
@@ -108,10 +108,10 @@ namespace Calculator
 
             private void sevenButton_Click(object sender, EventArgs e)//makes the seven button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "7";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 7
+            {
+                    MainDisplay.Text = "7";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "7";
@@ -122,10 +122,10 @@ namespace Calculator
 
             private void eightButton_Click(object sender, EventArgs e)//makes the eight button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "8";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 8
+            {
+                    MainDisplay.Text = "8";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "8";
@@ -136,10 +136,10 @@ namespace Calculator
 
             private void nineButton_Click(object sender, EventArgs e)//makes the nine button function and pressable
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
-                {
-                    MainDisplay.Text = "9";
-                }
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) //if the display has no number and is blank then display 9
+            {
+                    MainDisplay.Text = "9";//if the display has anything else add one to the end
+            }
                 else
                 {
                     MainDisplay.Text = MainDisplay.Text + "9";
@@ -148,7 +148,7 @@ namespace Calculator
 
         }
 
-        private void EqualButton_Click(object sender, EventArgs e)//makes the equal button function and pressable
+        private void EqualButton_Click(object sender, EventArgs e) //makes the equal button function and pressable
         {
             double Result;
             try
@@ -156,39 +156,39 @@ namespace Calculator
                 SecondNumber = Convert.ToDouble(MainDisplay.Text);
                 SecondDisplay.Text = Convert.ToString(FirstNumber) + Operation + Convert.ToString(SecondNumber) + "=";
 
-                if (Operation == "+")
+                if (Operation == "+") // if the operator is corresponding operator in the if statement then do the sum below
                 {
                     Result = (FirstNumber + SecondNumber);
                     MainDisplay.Text = Convert.ToString(Result);
                     FirstNumber = Result;
                 }
-                if (Operation == "-")
+                if (Operation == "-") // if the operator is corresponding operator in the if statement then do the sum below
                 {
                     Result = (FirstNumber - SecondNumber);
                     MainDisplay.Text = Convert.ToString(Result);
                     FirstNumber = Result;
                 }
-                if (Operation == "*")
+                if (Operation == "*") // if the operator is corresponding operator in the if statement then do the sum below
                 {
                     Result = (FirstNumber * SecondNumber);
                     MainDisplay.Text = Convert.ToString(Result);
                     FirstNumber = Result;
                 }
-                if (Operation == "/")
+                if (Operation == "/") // if the operator is corresponding operator in the if statement then do the sum below
                 {
-                    if (SecondNumber == 0)
+                    if (SecondNumber == 0) // if the number is a 0 then display the number as a 0
                     {
                         MainDisplay.Text = "0";
                     }
                     else
                     {
-                        Result = (FirstNumber / SecondNumber);
+                        Result = (FirstNumber / SecondNumber); // if the number is a not a 0 then do the sum below
                         MainDisplay.Text = Convert.ToString(Result);
                         FirstNumber = Result;
                     }
 
                 }
-                if (Operation == "%")
+                if (Operation == "%") // if the operator is corresponding operator in the if statement then do the sum below
                 {
                     Result = (SecondNumber / 100 * FirstNumber);
                     MainDisplay.Text = Convert.ToString(Result);
@@ -198,21 +198,21 @@ namespace Calculator
             }
             catch
             {
-                MainDisplay.Text = "Error";
+                MainDisplay.Text = "Error"; // if any of these functions fail then display this error message
             }
             }
                 private void MultiplyButton_Click(object sender, EventArgs e)//makes the times button function and pressable
         {
             try
             {
-                FirstNumber = Convert.ToDouble(MainDisplay.Text);
+                FirstNumber = Convert.ToDouble(MainDisplay.Text); //display the operator on the screen
                 MainDisplay.Text = "";
                 Operation = "*";
-                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation);
+                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation); // displays the operator and number on the top display
             }
             catch
             {
-                MainDisplay.Text = "Error";
+                MainDisplay.Text = "Error"; // if any of these functions fail then display this error message
             }
             EqualButton.Enabled = true;
 
@@ -222,10 +222,10 @@ namespace Calculator
         {
             try
             {
-                FirstNumber = Convert.ToDouble(MainDisplay.Text);
+                FirstNumber = Convert.ToDouble(MainDisplay.Text); //display the operator on the screen
                 MainDisplay.Text = "";
                 Operation = "/";
-                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation);
+                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation); // displays the operator and number on the top display
             }
             catch
             {
@@ -239,10 +239,10 @@ namespace Calculator
         {
             try
             {
-                FirstNumber = Convert.ToDouble(MainDisplay.Text);
+                FirstNumber = Convert.ToDouble(MainDisplay.Text); //display the operator on the screen
                 MainDisplay.Text = "";
                 Operation = "+";
-                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation);
+                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation); // displays the operator and number on the top display
             }
             catch
             {
@@ -257,10 +257,10 @@ namespace Calculator
             try
             {
 
-                FirstNumber = Convert.ToDouble(MainDisplay.Text);
+                FirstNumber = Convert.ToDouble(MainDisplay.Text); //display the operator on the screen
                 MainDisplay.Text = "";
                 Operation = "-";
-                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation);
+                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation); // displays the operator and number on the top display
             }
             catch
             {
@@ -273,10 +273,10 @@ namespace Calculator
             try
             {
 
-                FirstNumber = Convert.ToDouble(MainDisplay.Text);
+                FirstNumber = Convert.ToDouble(MainDisplay.Text); //display the operator on the screen
                 MainDisplay.Text = "";
                 Operation = "%";
-                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation);
+                SecondDisplay.Text = Convert.ToString(FirstNumber + Operation); // displays the operator and number on the top display
             }
             catch
             {
@@ -288,7 +288,7 @@ namespace Calculator
 
         private void decimalbutton_Click(object sender, EventArgs e)//makes the decimal button function and pressable
         {
-            if (MainDisplay.Text == "" && MainDisplay.Text != null)
+            if (MainDisplay.Text == "" && MainDisplay.Text != null) //display the operator on the screen
             {
                 MainDisplay.Text = ".";
             }
@@ -301,7 +301,7 @@ namespace Calculator
         }
         private void pibutton_Click(object sender, EventArgs e)//makes the pi button function and pressable
         {
-            if (MainDisplay.Text == "" && MainDisplay.Text != null)
+            if (MainDisplay.Text == "" && MainDisplay.Text != null) //display the operator on the screen
             {
                 MainDisplay.Text = "3.142";
             }
@@ -333,7 +333,7 @@ namespace Calculator
 
             private void MemoryButton_Click(object sender, EventArgs e)//makes the memory button function and stores memory
         {
-            if (MainDisplay.Text == "" && MainDisplay.Text != null)
+            if (MainDisplay.Text == "" && MainDisplay.Text != null) // if the display has no value and or a 0 then memory will be registered as a 0
             {
                 Memory = 0;
                 EqualButton.Enabled = true;
@@ -347,7 +347,7 @@ namespace Calculator
         }
             private void GetMemoryButton_Click(object sender, EventArgs e)//makes the memory button function and grabs from memory
         {
-                if (MainDisplay.Text == "" && MainDisplay.Text != null)
+                if (MainDisplay.Text == "" && MainDisplay.Text != null) // if the memory has registered number then display the number that is stored
                 {
                     MainDisplay.Text = Convert.ToString(Memory);
                 }
@@ -362,14 +362,14 @@ namespace Calculator
 
         }
 
-        private void VisualButton_Click(object sender, EventArgs e)
+        private void VisualButton_Click(object sender, EventArgs e) // changes look of the form to calculator 2 design
         {
             this.Hide();
             Calculator2 f2 = new Calculator2();
             f2.ShowDialog(); // or form.ShowDialog(this);
         }
 
-        private void BackspaceButton_Click(object sender, EventArgs e)
+        private void BackspaceButton_Click(object sender, EventArgs e) // removes the previous number added to the calculator
         {
             int numberLength = MainDisplay.Text.Length;
             if (numberLength > 1)
@@ -382,7 +382,7 @@ namespace Calculator
 
             }
         }
-        protected override void OnFormClosing(FormClosingEventArgs e)
+        protected override void OnFormClosing(FormClosingEventArgs e) // prevents memory leak and make sure when the user closes the window, the whole app closes down
         {
             Application.Exit();
         }
